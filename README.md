@@ -46,7 +46,7 @@ Smart_Road_Sign_Classifier/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Smart_Road_Sign_Classifier.git
+git clone https://github.com/siddhantsengar99/Smart_Road_Sign_Classifier.git
 cd Smart_Road_Sign_Classifier
 ```
 
